@@ -24,6 +24,9 @@ module.exports = {
                     link: '/cpp/modern/',
                 }
             ]
+        }, {
+            text: "Javascript",
+            link: "/js/"
         }],
     }
 }
